@@ -1,0 +1,71 @@
+[{
+    "id": 1,
+    "name": "Intro to Blockchain",
+    "period" : "week-2",
+    "activity" : "Click Avatar",
+    "Details":"Blockchain Cryptocurrency Fundamentals",
+    "modules":"8.1/10 Modules ",
+    "level":"81%",
+    "title" : "Smart Contracts",
+    "videoLink" : "https://youtu.be/2XxHOrBl5qo",
+    "descrip1" : "Learn the top rated skill on the go.."
+},
+{
+    "id": 2,
+    "name": "Intro to Blockchain",
+    "period" : "week-2",
+    "activity" : "Join Discord",
+    "Details":"Blockchain Cryptocurrency Fundamentals",
+    "modules":"8.4/10 Modules",
+    "level":"84%",
+    "title" : "Smart Contracts",
+    "videoLink" : "https://youtu.be/2XxHOrBl5qo",
+    "descrip1" : "Learn the top rated skill on the go.."
+},
+{
+    "id": 3,
+    "name": "Intro to Blockchain",
+    "period" : "week-2",
+    "activity" : "Click Joinup",
+    "Details":"Blockchain Cryptocurrency Fundamentals",
+    "modules":"8.7/10 Modules ",
+    "level":"87%",
+    "title" : "Smart Contracts",
+    "videoLink" : "https://youtu.be/2XxHOrBl5qo",
+    "descrip1" : "Learn the top rated skill on the go.."
+},
+{
+    "id": 4,
+    "name": "Intro to Blockchain",
+    "period" : "week-2",
+    "activity" :  "Click Avatar",
+    "Details":"Blockchain Cryptocurrency Fundamentals",
+    "modules":"8.1/10 Modules ",
+    "level":"81%", "title" : "Smart Contracts",
+    "videoLink" : "https://youtu.be/2XxHOrBl5qo",
+    "descrip1" : "Learn the top rated skill on the go.."
+},
+{
+    "id": 5,
+    "name": "Intro to Blockchain",
+    "period" : "week-2",
+    "activity" : "Click Joinup",
+    "details":"Blockchain Cryptocurrency Fundamentals",
+    "modules":"8.4/10 Modules ",
+    "level":"84%",
+    "title" : "Smart Contracts",
+    "videoLink" : "https://youtu.be/2XxHOrBl5qo",
+    "descrip1" : "Learn the top rated skill on the go.."
+},
+{
+    "id": 6,
+    "name": "Intro to Blockchain",
+    "period" : "week-2",
+    "activity" : "Join Discord",
+    "Details":"Blockchain Cryptocurrency Fundamentals",
+    "modules":"8.7/10 Modules ",
+    "level":"87%", 
+    "title" : "Smart Contracts",
+    "videoLink" : "https://youtu.be/2XxHOrBl5qo",
+    "descrip1" : "Learn the top rated skill on the go.."
+}]

@@ -1,0 +1,21 @@
+[{
+    "id": 1,
+    "name": "Intro to Blockchain",
+    "details":"Blockchain Cryptocurrency Fundamentals",
+    "modules":"8.1/10 Modules ",
+    "level":"81%"
+},
+{
+    "id": 2,
+    "name": "Intro to Blockchain",
+    "details":"Blockchain Cryptocurrency Fundamentals",
+    "modules":"8.4/10 Modules",
+    "level":"84%"
+},
+{
+    "id": 3,
+    "name": "Intro to Blockchain",
+    "details":"Blockchain Cryptocurrency Fundamentals",
+    "modules":"8.7/10 Modules ",
+    "level":"87%"
+}]

@@ -1,0 +1,28 @@
+/* .container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 1rem;
+    margin-bottom: 5rem; 
+     
+} */
+.box__design{
+    border : 1px solid lemonchiffon;
+    margin : 10px;
+    padding: 5px;
+    box-shadow: 2px 2px 2px gray;
+    background-color: white;
+    border-radius: 5px;
+    width: 400px;
+    height: 350px;
+    text-align: center;
+}
+.btn__design{
+    width: 150px;
+    font-weight: 600;
+    color: #fff;
+    background: #151371;
+    border-radius: 10px;
+}
+.learn__btn{
+    border-radius: 5px;
+}

@@ -1,0 +1,44 @@
+.course{
+    border: 1px solid gray;
+    color: #fff;
+    background: linear-gradient(110.62deg, hsl(240, 60%, 68%), rgb(47, 47, 108));
+    border-radius:10px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    width: 400px;
+    padding: 10px;
+}
+.modul{
+    margin-left: 300px;
+}
+.btn__one{
+    width: 150px;
+    font-weight: 600;
+    padding:5px;
+    margin-left: 100px;
+    color: #fff;
+    background: linear-gradient(104.61deg, #FF00B8 2.65%, #FF655B 51.83%, #FFC700 100%);
+    border-radius: 10px;
+}
+.my__course{
+    background: blue;
+ 
+}
+
+ input{
+    width: 130px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    margin:10px 0 10px 100px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('../../../images/search1.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    transition: width 0.4s ease-in-out;
+ }  
+     input:focus {
+        width: 80%;
+      }

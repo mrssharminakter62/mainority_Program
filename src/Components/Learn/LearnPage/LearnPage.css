@@ -1,0 +1,16 @@
+.back_baner {
+    height: 400px;
+    width:100%;
+    position: static;
+    background-image: url('../../../images/map.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.start_in{
+    color: #fff;
+    margin-left: 100px;
+}
+.end{
+    margin-left:350px;
+    color: #fff;
+}

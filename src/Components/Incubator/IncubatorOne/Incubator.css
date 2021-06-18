@@ -1,0 +1,22 @@
+.bg_baner {
+    height: 400px;
+    width:100%;
+    position: static;
+    background-image: url('../../../images/bg1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.start_up{
+    color:#fff ;
+    
+}
+.btn_style{
+    margin: 8px;
+    margin-left: 20px;
+    padding: 10px;
+    width: 200px;
+    font-weight: 600;
+    font-size: large;
+    background: linear-gradient(104.61deg, #FF00B8 2.65%, #FF655B 51.83%, #FFC700 100%);
+    border-radius: 10px;
+}
