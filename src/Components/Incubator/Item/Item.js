@@ -15,7 +15,7 @@ const Item = (props) => {
     }
 
     return (
-             <div className="">
+             <div className="col-md-6">
                 <div className="box__design ">
                     <div class="px-4">
                         <div className="row gx-5 align-items-center">

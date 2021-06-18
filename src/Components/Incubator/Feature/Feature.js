@@ -13,8 +13,10 @@ const InvestDirectly = () => {
     return (
        <div className="row">
            <div className="col-md-2">
+             <div className="text-white ml-3 mt-3">
                <h1>Upcoming Startups</h1>
                <h6>These visionary companies and disruptors are on their journey to change the world.</h6>
+             </div>
            </div>
            <div className="col-md-10">
             <div className="items">

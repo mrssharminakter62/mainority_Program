@@ -1,0 +1,20 @@
+.img-holder{
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-height: 300px;
+    max-width: 300px;
+    margin-top: 50px;
+}
+.welcome-headline{
+    margin-top: 100px;
+    align-items: flex-start;
+    justify-content: center;
+}
+.btn-resume{
+    color: white;
+    background-color:#151371 ;
+    border-radius: 6px;
+    height: 35px;
+    width: 130px;
+}

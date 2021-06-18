@@ -1,7 +1,7 @@
 [{
     "id": 1,
     "name": "Intro to Blockchain",
-    "period" : "week-2",
+    "period" : "week-1",
     "activity" : "Click Avatar",
     "Details":"Blockchain Cryptocurrency Fundamentals",
     "modules":"8.1/10 Modules ",
@@ -25,7 +25,7 @@
 {
     "id": 3,
     "name": "Intro to Blockchain",
-    "period" : "week-2",
+    "period" : "week-3",
     "activity" : "Click Joinup",
     "Details":"Blockchain Cryptocurrency Fundamentals",
     "modules":"8.7/10 Modules ",
@@ -41,7 +41,8 @@
     "activity" :  "Click Avatar",
     "Details":"Blockchain Cryptocurrency Fundamentals",
     "modules":"8.1/10 Modules ",
-    "level":"81%", "title" : "Smart Contracts",
+    "level":"81%", 
+    "title" : "Smart Contracts",
     "videoLink" : "https://youtu.be/2XxHOrBl5qo",
     "descrip1" : "Learn the top rated skill on the go.."
 },

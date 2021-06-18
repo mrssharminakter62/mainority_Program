@@ -1,5 +1,8 @@
 [{
     "id": 1,
+    "period" : "week-1",
+    "title" : "Learn Solidity",
+    "completePercentage" : "81% completed",
     "name": "Intro to Blockchain",
     "details":"Blockchain Cryptocurrency Fundamentals",
     "modules":"8.1/10 Modules ",
@@ -7,6 +10,9 @@
 },
 {
     "id": 2,
+    "period" : "week-2",
+    "title" : "Learn Solidity",
+    "completePercentage" : "81% completed",
     "name": "Intro to Blockchain",
     "details":"Blockchain Cryptocurrency Fundamentals",
     "modules":"8.4/10 Modules",
@@ -14,8 +20,13 @@
 },
 {
     "id": 3,
+    "period" : "week-3",
+    "title" : "Learn Solidity",
+    "completePercentage" : "81% completed",
     "name": "Intro to Blockchain",
     "details":"Blockchain Cryptocurrency Fundamentals",
     "modules":"8.7/10 Modules ",
     "level":"87%"
 }]
+
+

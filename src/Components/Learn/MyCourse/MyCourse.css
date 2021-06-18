@@ -1,7 +1,6 @@
-.course{
+ .course{
     border: 1px solid gray;
     color: #fff;
-    background: linear-gradient(110.62deg, hsl(240, 60%, 68%), rgb(47, 47, 108));
     border-radius:10px;
     margin-left: 15px;
     margin-bottom: 10px;
@@ -21,10 +20,9 @@
     border-radius: 10px;
 }
 .my__course{
-    background: blue;
- 
+    background: blue; 
 }
-
+   
  input{
     width: 130px;
     box-sizing: border-box;
