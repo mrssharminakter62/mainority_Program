@@ -13,7 +13,7 @@ const WelComeHeader = ({ handleClick }) => {
           <div style={{ textAlign: "left" }}>
             <h1 className="welcome-headline mt-5 text-white">
               Welcome back, <br />
-              Shot
+              <span className="text-dark">Shot Khan</span>
             </h1>
             <h3
               style={{
