@@ -28,7 +28,7 @@ const WelComeHeader = ({ handleClick }) => {
                 Completed
               </span>
             </h3>
-            <button className="btn-resume" onClick={handleClick}>
+            <button className="btn_brand" onClick={handleClick}>
               Resume
             </button>
           </div>
