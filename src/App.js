@@ -41,7 +41,7 @@ function App() {
         <Route path="/view">
          <InvestDirectly/>
         </Route>
-        <Route path="/welcome/:id">
+        <Route path="/more/:id">
             <WelCome />
           </Route>
         <Route path="/mangoswap/:id">

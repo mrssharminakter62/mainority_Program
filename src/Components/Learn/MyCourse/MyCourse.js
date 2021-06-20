@@ -12,7 +12,7 @@ const MyCourse = (props) => {
                         <h1>{name}</h1>
                         <p>{details}</p>
                          <button className='btn__one'>
-                             <Link to={`/progress/${id}`}> Learn More</Link>
+                             <Link to={`/more/${id}`}> Learn More</Link>
                         </button>
                         <p className="mod">{modules}</p> <br />
                         <img src={ progress} style={{maxWidth:"320px"}} alt="" />
