@@ -9,7 +9,7 @@ const WelCome = () => {
   const history = useHistory();
   const { id } = useParams();
   const myCourse = myCourseData.find(
-    (myCourseDetails) => myCourseDetails.id == id
+    (myCourseDetails) => myCourseDetails.id === id
   );
 
   const handleClick = () => {

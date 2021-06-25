@@ -11,7 +11,7 @@ import RelatedStarup from '../Details/RelatedStarup';
 const FeatureDetails = () => {
 
     const {id} = useParams();
-    const data = fakeData.find((dt) => dt.id == id);
+    const data = fakeData.find((dt) => dt.id === id);
    
     return (
         <div>
