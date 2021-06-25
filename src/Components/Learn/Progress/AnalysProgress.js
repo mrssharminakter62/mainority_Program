@@ -8,7 +8,7 @@ import SidebarOne from "../SidebarOne/SidebarOne";
 
 const AnalysProgress = () => {
   const { id } = useParams();
-  const progressDetails = progressData.find((progress) => progress.id == id);
+  const progressDetails = progressData.find((progress) => progress.id === id);
   return (
     <div className="row">
       <div className="col-sm-3 col-md-3 col-lg-3">

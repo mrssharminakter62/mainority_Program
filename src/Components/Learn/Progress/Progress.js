@@ -11,7 +11,7 @@ const Progress = () => {
     const [lists, setLists] = useState([]);
     
     const fDetails = featuredData.find(
-        (course) => course.id == id);
+        (course) => course.id === id);
 
       useEffect(() => {
         setLists(progressData);
